@@ -1,0 +1,33 @@
+C:\Users\Miguel\source\repos\Buscador_Archivos\Buscador_Archivos\bin\Debug\Buscador_Archivos.exe.config
+C:\Users\Miguel\source\repos\Buscador_Archivos\Buscador_Archivos\bin\Debug\Buscador_Archivos.exe
+C:\Users\Miguel\source\repos\Buscador_Archivos\Buscador_Archivos\bin\Debug\Buscador_Archivos.pdb
+C:\Users\Miguel\source\repos\Buscador_Archivos\Buscador_Archivos\obj\Debug\Buscador_Archivos.csproj.AssemblyReference.cache
+C:\Users\Miguel\source\repos\Buscador_Archivos\Buscador_Archivos\obj\Debug\Buscador_Archivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel\source\repos\Buscador_Archivos\Buscador_Archivos\obj\Debug\Buscador_Archivos.Form1.resources
+C:\Users\Miguel\source\repos\Buscador_Archivos\Buscador_Archivos\obj\Debug\Buscador_Archivos.Properties.Resources.resources
+C:\Users\Miguel\source\repos\Buscador_Archivos\Buscador_Archivos\obj\Debug\Buscador_Archivos.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\Buscador_Archivos\Buscador_Archivos\obj\Debug\Buscador_Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\Buscador_Archivos\Buscador_Archivos\obj\Debug\Buscador_Archivos.exe
+C:\Users\Miguel\source\repos\Buscador_Archivos\Buscador_Archivos\obj\Debug\Buscador_Archivos.pdb
+C:\Users\Miguel\source\repos\BACKUP\Buscador_Archivos 2\Buscador_Archivos\bin\Debug\Buscador_Archivos.exe.config
+C:\Users\Miguel\source\repos\BACKUP\Buscador_Archivos 2\Buscador_Archivos\bin\Debug\Buscador_Archivos.exe
+C:\Users\Miguel\source\repos\BACKUP\Buscador_Archivos 2\Buscador_Archivos\bin\Debug\Buscador_Archivos.pdb
+C:\Users\Miguel\source\repos\BACKUP\Buscador_Archivos 2\Buscador_Archivos\obj\Debug\Buscador_Archivos.csproj.AssemblyReference.cache
+C:\Users\Miguel\source\repos\BACKUP\Buscador_Archivos 2\Buscador_Archivos\obj\Debug\Buscador_Archivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel\source\repos\BACKUP\Buscador_Archivos 2\Buscador_Archivos\obj\Debug\Buscador_Archivos.Form1.resources
+C:\Users\Miguel\source\repos\BACKUP\Buscador_Archivos 2\Buscador_Archivos\obj\Debug\Buscador_Archivos.Properties.Resources.resources
+C:\Users\Miguel\source\repos\BACKUP\Buscador_Archivos 2\Buscador_Archivos\obj\Debug\Buscador_Archivos.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\BACKUP\Buscador_Archivos 2\Buscador_Archivos\obj\Debug\Buscador_Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\BACKUP\Buscador_Archivos 2\Buscador_Archivos\obj\Debug\Buscador_Archivos.exe
+C:\Users\Miguel\source\repos\BACKUP\Buscador_Archivos 2\Buscador_Archivos\obj\Debug\Buscador_Archivos.pdb
+C:\Users\Miguel\source\repos\Buscador_Archivos 2\Buscador_Archivos\bin\Debug\Buscador_Archivos.exe.config
+C:\Users\Miguel\source\repos\Buscador_Archivos 2\Buscador_Archivos\bin\Debug\Buscador_Archivos.exe
+C:\Users\Miguel\source\repos\Buscador_Archivos 2\Buscador_Archivos\bin\Debug\Buscador_Archivos.pdb
+C:\Users\Miguel\source\repos\Buscador_Archivos 2\Buscador_Archivos\obj\Debug\Buscador_Archivos.csproj.AssemblyReference.cache
+C:\Users\Miguel\source\repos\Buscador_Archivos 2\Buscador_Archivos\obj\Debug\Buscador_Archivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel\source\repos\Buscador_Archivos 2\Buscador_Archivos\obj\Debug\Buscador_Archivos.Form1.resources
+C:\Users\Miguel\source\repos\Buscador_Archivos 2\Buscador_Archivos\obj\Debug\Buscador_Archivos.Properties.Resources.resources
+C:\Users\Miguel\source\repos\Buscador_Archivos 2\Buscador_Archivos\obj\Debug\Buscador_Archivos.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\Buscador_Archivos 2\Buscador_Archivos\obj\Debug\Buscador_Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\Buscador_Archivos 2\Buscador_Archivos\obj\Debug\Buscador_Archivos.exe
+C:\Users\Miguel\source\repos\Buscador_Archivos 2\Buscador_Archivos\obj\Debug\Buscador_Archivos.pdb
